@@ -1,0 +1,40 @@
+{
+  "name": "app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "autosuggest-highlight": "^3.1.1",
+    "axios": "^0.16.2",
+    "classnames": "^2.2.5",
+    "jss": "^9.0.0",
+    "material-design-icons": "^3.0.1",
+    "material-ui": "^1.0.0-beta.21",
+    "material-ui-icons": "^1.0.0-beta.15",
+    "react": "^16.0.0",
+    "react-autosuggest": "^9.3.2",
+    "react-dom": "^16.0.0",
+    "react-file-input": "^0.2.5",
+    "react-jss": "^7.2.0",
+    "react-loading": "^1.0.2",
+    "react-redux": "^5.0.6",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.0.14",
+    "react-text-mask": "^5.0.2",
+    "react-typist": "^2.0.4",
+    "react-typist-loop": "0.0.3",
+    "recompose": "^0.26.0",
+    "redux": "^3.7.2",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.2.0",
+    "styled-jss": "^2.0.2",
+    "text-mask-addons": "^3.7.0",
+    "typeface-roboto": "0.0.35"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {}
+}
